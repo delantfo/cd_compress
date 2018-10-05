@@ -1,10 +1,6 @@
 import os
 import sys
 import os.path
-
-from urllib.parse import urlparse
-
-import csv
 import tinify
 
 tinify.key = '13IJ0rVnu6qHdZICv2WBEAFfKHdFQMRy'
